@@ -23,6 +23,6 @@ public class Timer
             } catch(InterruptedException ex){} 
             sop("\n\n\n");
         }
-        sop("Times up!");
+        sop("Time's up!");
     }
 }
